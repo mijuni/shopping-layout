@@ -1,0 +1,75 @@
+main {
+  font-size: 16px;
+  font-family: "Quicksand", sans-serif;
+  display: flex;
+  justify-content: center;
+  background-color: #f6f6f6;
+}
+
+header {
+  font-size: 0.7rem;
+  padding-left: 0.5rem;
+}
+
+.container {
+  _border: 2px solid black;
+  width: 20rem;
+  height: 30rem;
+  border-radius: 1rem;
+  margin: 2rem 1.5rem;
+
+  background-color: white;
+
+  /* background-image: url(https://camo.githubusercontent.com/386948ec10cc7166718d9ec43783e3f176fe8043abad15775d23eade78196b5b/68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f70686f746f2d313536303037323831302d3163666662303966616630663f697869643d4d6e77784d6a4133664442384d48787761473930627931775957646c664878386647567566444238664878382669786c69623d72622d312e322e31266175746f3d666f726d6174266669743d63726f7026773d3134373026713d3830);
+  background-size: 100% 35%;
+  background-repeat: no-repeat; */
+}
+
+.second-container {
+  _border: 2px solid black;
+  width: 20rem;
+  height: 30rem;
+  border-radius: 1rem;
+  margin: 2rem 1.5rem;
+
+  background-color: white;
+}
+
+.third-container {
+  _border: 2px solid black;
+  width: 20rem;
+  height: 30rem;
+  border-radius: 1rem;
+  margin: 2rem 1.5rem;
+
+  background-color: white;
+}
+
+.text {
+  color: gray;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+img {
+  height: 35%;
+  width: 100%;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  background-color: #f6f6f6;
+
+  border-radius: 0.5rem;
+}
+
+.price {
+  text-align: center;
+  background-color: white;
+
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
